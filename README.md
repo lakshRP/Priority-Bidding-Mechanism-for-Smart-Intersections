@@ -2,7 +2,7 @@
 
 ## Overview
 
-Smart-City Intersection Optimization via Bid-Driven Signal Parameterization is a collaborative effort between the Illinois Mathematics and Science Academy and Southern Illinois University, Carbondale. It provides the Priority Bidding Mechanism (PBM) for adaptive traffic signal control.
+Smart-City Intersection Optimization via Bid-Driven Signal Parameterization is a collaborative effort between the Illinois Mathematics and Science Academy (IMSA) and Southern Illinois University, Carbondale (SIUC). It provides the Priority Bidding Mechanism (PBM) for adaptive traffic signal control. Balancing efficiency, speed, and performance, PBM improves upon current algorithms for traffic signal control.
 
 
 
@@ -84,10 +84,4 @@ This project is released under the **MIT License**. See [LICENSE](LICENSE) for d
 ---
 
 ## 👥 Authors
-
-* **Laksh Patel** -- Simulation design, implementation, experiments, theoretical analysis, proofs, paper writing [1]
-* **Soham Batra** -- Real-world IoT implementation, optimization, parallel processing, proofs, paper writing [1]
-* **Dr. Anas Alsobeh** -- Mentor, survey of climate, research analytics, verification, paper writing [2]
-
-* *[1] -> First Author, Illinois Mathematics and Science Academy*
-* *[2] -> Second Author, Southern Illinois University, Carbondale*
+**Laksh Patel (IMSA)**, **Soham Batra (IMSA)**, **Dr. Anas Alsobeh (SIUC)**, and **Dr. Thomas Imboden (SIUC)**
