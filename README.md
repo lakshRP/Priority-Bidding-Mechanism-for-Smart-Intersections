@@ -70,8 +70,7 @@ networkx>=2.6
 
 * **Manuscript:**
   `coming soon`
-* **Supplementary:**
-  Extra figures, proofs, or slides in `docs/supplementary/`.
+
 
 ---
 
@@ -87,5 +86,5 @@ This project is released under the **MIT License**. See [LICENSE](LICENSE) for d
 * **Soham Batra** -- Real-world IoT implementation, optimization, parallel processing, proofs, paper writing [1]
 * **Dr. Anas Alsobeh** -- Mentor, survey of climate, research analytics, verification, paper writing [2]
 
-*[1] -> First Author, Illinois Mathematics and Science Academy*
-*[2] -> Second Author, Southern Illinois University, Carbondale*
+* *[1] -> First Author, Illinois Mathematics and Science Academy*
+* *[2] -> Second Author, Southern Illinois University, Carbondale*
