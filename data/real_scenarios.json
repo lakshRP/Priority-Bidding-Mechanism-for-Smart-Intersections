@@ -1,0 +1,402 @@
+[
+  {
+    "name": "scenario_001",
+    "grid_size": 4,
+    "n_vehicles": 50,
+    "duration": 200.0,
+    "random_seed": 1,
+    "description": "Downtown Central Ave & 5th St during morning peak (7–9 AM) under clear skies, with weekday rush hour."
+  },
+  {
+    "name": "scenario_002",
+    "grid_size": 3,
+    "n_vehicles": 20,
+    "duration": 100.0,
+    "random_seed": 2,
+    "description": "Suburban Elm St & Maple Rd during afternoon peak (4–6 PM) under light rain, with school dismissal."
+  },
+  {
+    "name": "scenario_003",
+    "grid_size": 5,
+    "n_vehicles": 100,
+    "duration": 300.0,
+    "random_seed": 3,
+    "description": "University campus entrance during midday off-peak (11 AM–1 PM) under foggy conditions, with no special event."
+  },
+  {
+    "name": "scenario_004",
+    "grid_size": 6,
+    "n_vehicles": 200,
+    "duration": 200.0,
+    "random_seed": 4,
+    "description": "Industrial Park north gate during evening low traffic (8–10 PM) under heavy rain, with road construction."
+  },
+  {
+    "name": "scenario_005",
+    "grid_size": 4,
+    "n_vehicles": 50,
+    "duration": 100.0,
+    "random_seed": 5,
+    "description": "Shopping Mall East Entrance during weekday rush hour under clear skies, with no special event."
+  },
+  {
+    "name": "scenario_006",
+    "grid_size": 3,
+    "n_vehicles": 20,
+    "duration": 200.0,
+    "random_seed": 6,
+    "description": "Residential neighborhood cul-de-sac during late night (12–2 AM) under foggy conditions, with accident clearing."
+  },
+  {
+    "name": "scenario_007",
+    "grid_size": 5,
+    "n_vehicles": 100,
+    "duration": 300.0,
+    "random_seed": 7,
+    "description": "Airport access road during morning peak (7–9 AM) under windy conditions, with sports game ending."
+  },
+  {
+    "name": "scenario_008",
+    "grid_size": 6,
+    "n_vehicles": 200,
+    "duration": 100.0,
+    "random_seed": 8,
+    "description": "Hospital emergency entrance during late night (12–2 AM) under clear skies, with accident clearing."
+  },
+  {
+    "name": "scenario_009",
+    "grid_size": 4,
+    "n_vehicles": 50,
+    "duration": 300.0,
+    "random_seed": 9,
+    "description": "Stadium event exit during evening low traffic (8–10 PM) under light rain, with concert ending."
+  },
+  {
+    "name": "scenario_010",
+    "grid_size": 3,
+    "n_vehicles": 20,
+    "duration": 200.0,
+    "random_seed": 10,
+    "description": "School drop-off zone during morning peak (7–9 AM) under clear skies, with school dismissal."
+  },
+  {
+    "name": "scenario_011",
+    "grid_size": 5,
+    "n_vehicles": 100,
+    "duration": 100.0,
+    "random_seed": 11,
+    "description": "Highway feeder ramp during afternoon peak (4–6 PM) under heavy rain, with weekday rush hour."
+  },
+  {
+    "name": "scenario_012",
+    "grid_size": 6,
+    "n_vehicles": 200,
+    "duration": 300.0,
+    "random_seed": 12,
+    "description": "Tourist area waterfront during midday off-peak (11 AM–1 PM) under clear skies, with weekend festival."
+  },
+  {
+    "name": "scenario_013",
+    "grid_size": 4,
+    "n_vehicles": 50,
+    "duration": 200.0,
+    "random_seed": 13,
+    "description": "Business district 3rd Ave & Pine St during evening low traffic (8–10 PM) under foggy conditions, with no special event."
+  },
+  {
+    "name": "scenario_014",
+    "grid_size": 3,
+    "n_vehicles": 20,
+    "duration": 100.0,
+    "random_seed": 14,
+    "description": "Construction detour on Main St during afternoon peak (4–6 PM) under windy conditions, with road construction."
+  },
+  {
+    "name": "scenario_015",
+    "grid_size": 5,
+    "n_vehicles": 100,
+    "duration": 300.0,
+    "random_seed": 15,
+    "description": "Mountain pass route during late night (12–2 AM) under snowy conditions, with accident clearing."
+  },
+  {
+    "name": "scenario_016",
+    "grid_size": 6,
+    "n_vehicles": 200,
+    "duration": 200.0,
+    "random_seed": 16,
+    "description": "Beachside boardwalk access during midday off-peak (11 AM–1 PM) under clear skies, with weekend festival."
+  },
+  {
+    "name": "scenario_017",
+    "grid_size": 4,
+    "n_vehicles": 50,
+    "duration": 100.0,
+    "random_seed": 17,
+    "description": "Downtown Central Ave & 5th St during afternoon peak (4–6 PM) under light rain, with sports game ending."
+  },
+  {
+    "name": "scenario_018",
+    "grid_size": 3,
+    "n_vehicles": 20,
+    "duration": 200.0,
+    "random_seed": 18,
+    "description": "Suburban Elm St & Maple Rd during evening low traffic (8–10 PM) under clear skies, with no special event."
+  },
+  {
+    "name": "scenario_019",
+    "grid_size": 5,
+    "n_vehicles": 100,
+    "duration": 300.0,
+    "random_seed": 19,
+    "description": "University campus entrance during morning peak (7–9 AM) under foggy conditions, with school dismissal."
+  },
+  {
+    "name": "scenario_020",
+    "grid_size": 6,
+    "n_vehicles": 200,
+    "duration": 100.0,
+    "random_seed": 20,
+    "description": "Industrial Park north gate during morning peak (7–9 AM) under heavy rain, with road construction."
+  },
+  {
+    "name": "scenario_021",
+    "grid_size": 4,
+    "n_vehicles": 50,
+    "duration": 100.0,
+    "random_seed": 21,
+    "description": "Shopping Mall East Entrance during evening low traffic (8–10 PM) under windy conditions, with weekend festival."
+  },
+  {
+    "name": "scenario_022",
+    "grid_size": 3,
+    "n_vehicles": 20,
+    "duration": 200.0,
+    "random_seed": 22,
+    "description": "Residential neighborhood cul-de-sac during afternoon peak (4–6 PM) under snowy conditions, with accident clearing."
+  },
+  {
+    "name": "scenario_023",
+    "grid_size": 5,
+    "n_vehicles": 100,
+    "duration": 200.0,
+    "random_seed": 23,
+    "description": "Airport access road during midday off-peak (11 AM–1 PM) under foggy conditions, with no special event."
+  },
+  {
+    "name": "scenario_024",
+    "grid_size": 6,
+    "n_vehicles": 200,
+    "duration": 300.0,
+    "random_seed": 24,
+    "description": "Hospital emergency entrance during afternoon peak (4–6 PM) under clear skies, with accident clearing."
+  },
+  {
+    "name": "scenario_025",
+    "grid_size": 4,
+    "n_vehicles": 50,
+    "duration": 200.0,
+    "random_seed": 25,
+    "description": "Stadium event exit during morning peak (7–9 AM) under light rain, with concert ending."
+  },
+  {
+    "name": "scenario_026",
+    "grid_size": 3,
+    "n_vehicles": 20,
+    "duration": 300.0,
+    "random_seed": 26,
+    "description": "School drop-off zone during midday off-peak (11 AM–1 PM) under clear skies, with school dismissal."
+  },
+  {
+    "name": "scenario_027",
+    "grid_size": 5,
+    "n_vehicles": 100,
+    "duration": 100.0,
+    "random_seed": 27,
+    "description": "Highway feeder ramp during evening low traffic (8–10 PM) under heavy rain, with weekday rush hour."
+  },
+  {
+    "name": "scenario_028",
+    "grid_size": 6,
+    "n_vehicles": 200,
+    "duration": 200.0,
+    "random_seed": 28,
+    "description": "Tourist area waterfront during late night (12–2 AM) under windy conditions, with weekend festival."
+  },
+  {
+    "name": "scenario_029",
+    "grid_size": 4,
+    "n_vehicles": 50,
+    "duration": 100.0,
+    "random_seed": 29,
+    "description": "Business district 3rd Ave & Pine St during morning peak (7–9 AM) under foggy conditions, with no special event."
+  },
+  {
+    "name": "scenario_030",
+    "grid_size": 3,
+    "n_vehicles": 20,
+    "duration": 300.0,
+    "random_seed": 30,
+    "description": "Construction detour on Main St during midday off-peak (11 AM–1 PM) under clear skies, with road construction."
+  },
+  {
+    "name": "scenario_031",
+    "grid_size": 5,
+    "n_vehicles": 100,
+    "duration": 200.0,
+    "random_seed": 31,
+    "description": "Mountain pass route during afternoon peak (4–6 PM) under snowy conditions, with accident clearing."
+  },
+  {
+    "name": "scenario_032",
+    "grid_size": 6,
+    "n_vehicles": 200,
+    "duration": 100.0,
+    "random_seed": 32,
+    "description": "Beachside boardwalk access during evening low traffic (8–10 PM) under clear skies, with weekend festival."
+  },
+  {
+    "name": "scenario_033",
+    "grid_size": 4,
+    "n_vehicles": 50,
+    "duration": 300.0,
+    "random_seed": 33,
+    "description": "Downtown Central Ave & 5th St during late night (12–2 AM) under foggy conditions, with accident clearing."
+  },
+  {
+    "name": "scenario_034",
+    "grid_size": 3,
+    "n_vehicles": 20,
+    "duration": 100.0,
+    "random_seed": 34,
+    "description": "Suburban Elm St & Maple Rd during morning peak (7–9 AM) under heavy rain, with school dismissal."
+  },
+  {
+    "name": "scenario_035",
+    "grid_size": 5,
+    "n_vehicles": 100,
+    "duration": 200.0,
+    "random_seed": 35,
+    "description": "University campus entrance during evening low traffic (8–10 PM) under windy conditions, with no special event."
+  },
+  {
+    "name": "scenario_036",
+    "grid_size": 6,
+    "n_vehicles": 200,
+    "duration": 300.0,
+    "random_seed": 36,
+    "description": "Industrial Park north gate during morning peak (7–9 AM) under clear skies, with road construction."
+  },
+  {
+    "name": "scenario_037",
+    "grid_size": 4,
+    "n_vehicles": 50,
+    "duration": 100.0,
+    "random_seed": 37,
+    "description": "Shopping Mall East Entrance during midday off-peak (11 AM–1 PM) under foggy conditions, with weekend festival."
+  },
+  {
+    "name": "scenario_038",
+    "grid_size": 3,
+    "n_vehicles": 20,
+    "duration": 300.0,
+    "random_seed": 38,
+    "description": "Residential neighborhood cul-de-sac during evening low traffic (8–10 PM) under snowy conditions, with accident clearing."
+  },
+  {
+    "name": "scenario_039",
+    "grid_size": 5,
+    "n_vehicles": 100,
+    "duration": 200.0,
+    "random_seed": 39,
+    "description": "Airport access road during afternoon peak (4–6 PM) under light rain, with sports game ending."
+  },
+  {
+    "name": "scenario_040",
+    "grid_size": 6,
+    "n_vehicles": 200,
+    "duration": 100.0,
+    "random_seed": 40,
+    "description": "Hospital emergency entrance during morning peak (7–9 AM) under windy conditions, with accident clearing."
+  },
+  {
+    "name": "scenario_041",
+    "grid_size": 4,
+    "n_vehicles": 50,
+    "duration": 300.0,
+    "random_seed": 41,
+    "description": "Stadium event exit during afternoon peak (4–6 PM) under clear skies, with concert ending."
+  },
+  {
+    "name": "scenario_042",
+    "grid_size": 3,
+    "n_vehicles": 20,
+    "duration": 200.0,
+    "random_seed": 42,
+    "description": "School drop-off zone during evening low traffic (8–10 PM) under foggy conditions, with school dismissal."
+  },
+  {
+    "name": "scenario_043",
+    "grid_size": 5,
+    "n_vehicles": 100,
+    "duration": 100.0,
+    "random_seed": 43,
+    "description": "Highway feeder ramp during midday off-peak (11 AM–1 PM) under snowy conditions, with weekday rush hour."
+  },
+  {
+    "name": "scenario_044",
+    "grid_size": 6,
+    "n_vehicles": 200,
+    "duration": 200.0,
+    "random_seed": 44,
+    "description": "Tourist area waterfront during morning peak (7–9 AM) under light rain, with weekend festival."
+  },
+  {
+    "name": "scenario_045",
+    "grid_size": 4,
+    "n_vehicles": 50,
+    "duration": 100.0,
+    "random_seed": 45,
+    "description": "Business district 3rd Ave & Pine St during afternoon peak (4–6 PM) under windy conditions, with no special event."
+  },
+  {
+    "name": "scenario_046",
+    "grid_size": 3,
+    "n_vehicles": 20,
+    "duration": 300.0,
+    "random_seed": 46,
+    "description": "Construction detour on Main St during evening low traffic (8–10 PM) under clear skies, with road construction."
+  },
+  {
+    "name": "scenario_047",
+    "grid_size": 5,
+    "n_vehicles": 100,
+    "duration": 200.0,
+    "random_seed": 47,
+    "description": "Mountain pass route during midday off-peak (11 AM–1 PM) under clear skies, with accident clearing."
+  },
+  {
+    "name": "scenario_048",
+    "grid_size": 6,
+    "n_vehicles": 200,
+    "duration": 300.0,
+    "random_seed": 48,
+    "description": "Beachside boardwalk access during afternoon peak (4–6 PM) under snowy conditions, with weekend festival."
+  },
+  {
+    "name": "scenario_049",
+    "grid_size": 4,
+    "n_vehicles": 50,
+    "duration": 200.0,
+    "random_seed": 49,
+    "description": "Downtown Central Ave & 5th St during midday off-peak (11 AM–1 PM) under windy conditions, with no special event."
+  },
+  {
+    "name": "scenario_050",
+    "grid_size": 3,
+    "n_vehicles": 20,
+    "duration": 100.0,
+    "random_seed": 50,
+    "description": "Suburban Elm St & Maple Rd during late night (12–2 AM) under clear skies, with accident clearing."
+  }
+]
