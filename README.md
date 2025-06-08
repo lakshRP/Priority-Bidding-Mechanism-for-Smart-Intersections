@@ -1,6 +1,9 @@
 # Smart-City Intersection Optimization via Priority Bidding Mechanisms
 
-An open-source Python implementation and evaluation of the Priority Bidding Mechanism (PBM) for adaptive traffic signal control, accompanying the paper:
+## Overview
+
+Smart-City Intersection Optimization via Bid-Driven Signal Parameterization is a collaborative effort between the Illinois Mathematics and Science Academy and Southern Illinois University, Carbondale. It provides the Priority Bidding Mechanism (PBM) for adaptive traffic signal control.
+
 
 
 ## 🚀 Getting Started
