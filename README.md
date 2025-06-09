@@ -20,8 +20,8 @@ Smart-City Intersection Optimization via Bid-Driven Signal Parameterization is a
 ### Clone & Navigate
 
 ```bash
-git clone https://github.com/LakshRP/SmartCity-PBM.git
-cd SmartCity-PBM
+git clone https://github.com/LakshRP/Priority-Bidding-Mechanism-for-Smart-Intersections.git
+cd Priority-Bidding-Mechanism-for-Smart-Intersections
 ```
 
 ### Run Core Experiments
