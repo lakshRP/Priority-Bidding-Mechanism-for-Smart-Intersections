@@ -8,7 +8,7 @@ Smart-City Intersection Optimization via Bid-Driven Signal Parameterization is a
   <img src="figure.png" alt="Simulation Example" />
 </div>
 
-
+Above is an example simulation of 10x10 grid with 2 vehicles.
 ## 🚀 Getting Started
 
 ### Prerequisites
