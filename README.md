@@ -4,7 +4,7 @@
 
 Smart-City Intersection Optimization via Bid-Driven Signal Parameterization is a collaborative effort between the Illinois Mathematics and Science Academy (IMSA) and Southern Illinois University, Carbondale (SIUC). It provides the Priority Bidding Mechanism (PBM) for adaptive traffic signal control. Balancing efficiency, speed, and performance, PBM improves upon current algorithms for traffic signal control.
 
-![10x10 Simulation Diagram](images/diagram.png)
+![10x10 Simulation Diagram](figure.png)
 
 ## 🚀 Getting Started
 
